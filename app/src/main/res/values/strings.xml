@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DAM_UC3_HENRY_TORRES</string>
+    <string name="ISCorreoE">Correo Electronico</string>
+    <string name="ISContraseña">Contraseña</string>
+    <string name="ISNocerrar">No cerrar sesion</string>
+    <string name="ISEntrar">Entrar</string>
+    <string name="RSNombre">Nombre</string>
+    <string name="RSAPELLIDOS">APELLIDOS</string>
+    <string name="RSDIREC">TU DIRECCION DE CORREO</string>
+    <string name="RSCONTRASEÑA">TU CONTRASEÑA NUEVA</string>
+    <string name="RSSEXO">SEXO</string>
+    <string name="RSFECHAN">FECHA DE NACIMIENTO</string>
+    <string name="RSINOMBRE" />
+    <string name="RSIAPELLIDOS" />
+    <string name="RSICORREON" />
+    <string name="RSICONTRASEÑA" />
+    <string name="BTNREGISTRO">REGISTRATE</string>
+    <string name="RSPREG">¿Porque tengo que dar esta información?</string>
+    <string name="RSHOMBRE">Hombre</string>
+    <string name="RSMUJER">Mujer</string>
+</resources>
